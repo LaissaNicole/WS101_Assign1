@@ -99,7 +99,7 @@ if (empty($errors)) {
 </head>
 <body style="background-color: #e5e7e9;">
     <div class="container mt-5">
-        <form action="assign1.php" method="POST">
+        <form action="registration.php" method="POST">
             <h2>Registration Form</h2>
 
             <!-- Name Field -->
